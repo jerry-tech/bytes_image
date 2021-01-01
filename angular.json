@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularImage"
+    }
+  },
+  "defaultProject": "AngularImage",
+  "cli": {
+    "analytics": false
+  }
 }
